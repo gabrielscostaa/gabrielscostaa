@@ -1,8 +1,6 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 
 # Gabriel Santos da Costa
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabzera05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
